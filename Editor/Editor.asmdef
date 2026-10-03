@@ -1,0 +1,16 @@
+{
+    "name": "shaan-vashisht.UI.Editor",
+    "rootNamespace": "SV.UI.Editor",
+    "references": [
+        "GUID:385d3082737bede428e5dbdfd4418b7f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

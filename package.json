@@ -1,0 +1,11 @@
+{
+  "name": "shaan-vashisht.ui",
+  "version": "1.0.0",
+  "displayName": "SV UI",
+  "description": "A unity package with useful classes and components for handling user interface in game development.",
+  "unity": "6000.6",
+  "author": {
+    "name": "Shaan Vashisht",
+    "email": "shaan.w.vashisht@gmail.com"
+  }
+}
